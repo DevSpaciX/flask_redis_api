@@ -8,7 +8,7 @@ A simple REST API built with Flask and Flask-RESTx that mimics basic Redis key-v
 - **Get the Value for a Key**: Retrieve the value associated with a given key.
 - **Check if a Key Exists**: Verify if a particular key is present in the store.
 - **Delete a Key**: Remove a key and its value from the store.
-- **Increment Key Value**: Increment the integer value of a specified key.
+- **Increment Key Value**: Increment the value of a specified key.
 
 ## Installation
 
